@@ -2,43 +2,53 @@
     "list": [
         {
         "name":"Big Buck Bunny",
-        "videoLink":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        "videoLink":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "thumNailLink":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
         },
         {
         "name":"Elephant Dream",
         "videoLink":"http://commondatastorage.googleapi.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+        "thumNailLink":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg"
         },
         {
         "name":"For Bigger Blazes",
         "videoLink":"http://commondatastorage.googleap.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+        "thumNailLink":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg"
         },
         {
         "name":"Big Buck Bunny",
         "videoLink":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        "thumNailLink":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
         },
         {
         "name":"Big Buck Bunny",
         "videoLink":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        "thumNailLink":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
         },
         {
         "name":"Big Buck Bunny",
         "videoLink":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        "thumNailLink":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
         },
         {
         "name":"Big Buck Bunny",
         "videoLink":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        "thumNailLink":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
         },
         {
         "name":"Big Buck Bunny",
         "videoLink":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        "thumNailLink":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
         },
         {
         "name":"Big Buck Bunny",
         "videoLink":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        "thumNailLink":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
         },
         {
         "name":"Big Buck Bunny",
         "videoLink":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        "thumNailLink":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
         }
     ]
 }
